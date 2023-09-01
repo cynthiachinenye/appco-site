@@ -1,14 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
 .navbar{
     width:100Vw;
-    height:200px;
+    height:100px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: absolute;
-     top:17px;
-     bottom:100%;
      display:flex;
      flex-direction:row;
      justify-content: space-around;
      align-items: center;
+     position:sticky;
+     top:0;
+     bottom:17%;
 
 }
 .navbar .logo{
