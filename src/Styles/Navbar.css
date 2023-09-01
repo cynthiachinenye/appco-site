@@ -1,0 +1,34 @@
+.navbar{
+    width:100Vw;
+    height:200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+     top:17px;
+     bottom:100%;
+     display:flex;
+     flex-direction:row;
+     justify-content: space-around;
+     align-items: center;
+
+}
+.navbar .logo{
+    height:50px;
+    width: 130px;
+    background-image: no-repeat;
+    background-position: center;
+    background-size:cover;
+
+}
+.navbar .link a{
+    padding:20px;
+    text-decoration:none;
+    color:#000;
+    text-transform:uppercase;
+    font-weight:bold;
+    font-size:18px;
+
+}
+.navbar .link a:hover{
+    text-decoration: underline;
+    color:rgb(136, 245, 245);
+}
