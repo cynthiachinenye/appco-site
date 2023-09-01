@@ -10,7 +10,7 @@ function Navbar() {
     <div className='link'>
 
     <Link to='/'>home</Link>
-    <Link to='/'> our services</Link>
+    <Link to='services'> our services</Link>
     <Link to='/'>about us</Link>
     <Link to='/'> our expertise</Link>
     <Link to='/'>testimonials</Link>
