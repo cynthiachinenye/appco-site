@@ -7,21 +7,21 @@ import About from './About'
 
 function Home() {
   return (
-    <div className='Home' style={{backgroundImage: ` url(${HomeImage})`}}>
-    
-     <div className="header">
-         
-        <h1>welcome to appco uk:</h1>
-         <h6>we believe professional field marketing starts with putting our best feet forward!</h6>
+      <div className='Home' style={{backgroundImage: ` url(${HomeImage})`}}>
       
-         </div>    
-      
-         <Link to='about'>
-         <button >read more</button>
-         </Link>  
-        <Services/>
-        <About/>
-    </div>
+      <div className="header">
+          
+          <h1>welcome to appco uk:</h1>
+          <h6>we believe professional field marketing starts with putting our best feet forward!</h6>
+        
+          </div>    
+        
+          <Link to='about'>
+          <button >read more</button>
+          </Link>  
+          <Services/>
+          <About/>
+      </div>
   )
 }
 
