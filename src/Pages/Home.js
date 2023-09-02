@@ -3,6 +3,7 @@ import HomeImage from '../Assets/istockphoto-1145121776-612x612.jpg'
 import  {Link} from 'react-router-dom'
 import '../Styles/Home.css'
 import Services from './Services'
+import About from './About'
 
 function Home() {
   return (
@@ -19,6 +20,7 @@ function Home() {
          <button >read more</button>
          </Link>  
         <Services/>
+        <About/>
     </div>
   )
 }
