@@ -9,8 +9,10 @@ function About() {
     
      <div className="header">
          
-        <h1>welcome to appco uk:</h1>
-         <h6>we believe professional field marketing starts with putting our best feet forward!</h6>
+        <h1>about us</h1>
+         <h6>APPCO UK IS COMMITTED TO DELIVERING HIGH-QUALITY, RESPONSIBLE AND VALUABLE FACE-TO-FACE MARKETING CAMPAIGNS FOR OUR CLIENTS.
+
+         </h6>
       
          </div>    
       

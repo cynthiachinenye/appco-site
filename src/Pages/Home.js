@@ -7,6 +7,7 @@ import About from './About'
 
 function Home() {
   return (
+    <div>
       <div className='Home' style={{backgroundImage: ` url(${HomeImage})`}}>
       
       <div className="header">
@@ -14,13 +15,14 @@ function Home() {
           <h1>welcome to appco uk:</h1>
           <h6>we believe professional field marketing starts with putting our best feet forward!</h6>
         
-          </div>    
-        
           <Link to='about'>
           <button >read more</button>
-          </Link>  
-          <Services/>
-          <About/>
+          </Link> 
+          </div>     
+         
+      </div>
+      <Services />
+      <About/>
       </div>
   )
 }
