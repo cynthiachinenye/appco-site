@@ -11,7 +11,7 @@ function Navbar() {
 
     <Link to='/'>home</Link>
     <Link to='services'> our services</Link>
-    <Link to='/'>about us</Link>
+    <Link to='about'>about us</Link>
     <Link to='/'> our expertise</Link>
     <Link to='/'>testimonials</Link>
     <Link to='/'>new & blog</Link>
