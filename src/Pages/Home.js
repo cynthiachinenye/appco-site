@@ -4,6 +4,7 @@ import  {Link} from 'react-router-dom'
 import '../Styles/Home.css'
 import Services from './Services'
 import About from './About'
+import Expentise from './Expentise'
 
 function Home() {
   return (
@@ -23,6 +24,7 @@ function Home() {
       </div>
       <Services />
       <About/>
+      <Expentise/>  
       </div>
   )
 }

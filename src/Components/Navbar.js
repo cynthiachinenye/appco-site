@@ -12,10 +12,10 @@ function Navbar() {
     <Link to='/'>home</Link>
     <Link to='services'> our services</Link>
     <Link to='about'>about us</Link>
-    <Link to='/'> our expertise</Link>
-    <Link to='/'>testimonials</Link>
-    <Link to='/'>new & blog</Link>
-    <Link to='/'>contact</Link>
+    <Link to='expentise'> our expertise</Link>
+    <Link to='test'>testimonials</Link>
+    <Link to='blog'>new & blog</Link>
+    <Link to='contact'>contact</Link>
     
     </div>
 
