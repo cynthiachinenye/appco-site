@@ -10,7 +10,7 @@ function Expentise() {
      <p className='first-paragraph'>Great campaigns built on great relationships</p>
      <p className='second-paragraph'>OUR CLIENTS AND BUSINESS PARTNERS COME FIRST</p>
      <hr/>
-     <p className='third-paeagraph'>We believe in getting to know our clients and outsourced suppliers. This means:</p>
+     <p className='third-paragraph'>We believe in getting to know our clients and outsourced suppliers. This means:</p>
      <ul>
        <li>understanding and fulfilling their specific needs</li>
        <li>becoming passionate experts on our clients’ brands</li>
@@ -23,7 +23,7 @@ function Expentise() {
      <p className='first-paragraph'>Great campaigns built on great relationships</p>
      <p className='second-paragraph'>OUR CLIENTS AND BUSINESS PARTNERS COME FIRST</p>
      <hr/>
-     <p className='third-paeagraph'>We believe in getting to know our clients and outsourced suppliers. This means:</p>
+     <p className='third-paragraph'>We believe in getting to know our clients and outsourced suppliers. This means:</p>
      <ul>
        <li>understanding and fulfilling their specific needs</li>
        <li>becoming passionate experts on our clients’ brands</li>
@@ -36,7 +36,7 @@ function Expentise() {
      <p className='first-paragraph'>Great campaigns built on great relationships</p>
      <p className='second-paragraph'>OUR CLIENTS AND BUSINESS PARTNERS COME FIRST</p>
      <hr/>
-     <p className='third-paeagraph'>We believe in getting to know our clients and outsourced suppliers. This means:</p>
+     <p className='third-paragraph'>We believe in getting to know our clients and outsourced suppliers. This means:</p>
      <ul>
        <li>understanding and fulfilling their specific needs</li>
        <li>becoming passionate experts on our clients’ brands</li>
@@ -48,7 +48,7 @@ function Expentise() {
      <p className='first-paragraph'>Great campaigns built on great relationships</p>
      <p className='second-paragraph'>OUR CLIENTS AND BUSINESS PARTNERS COME FIRST</p>
      <hr/>
-     <p className='third-paeagraph'>We believe in getting to know our clients and outsourced suppliers. This means:</p>
+     <p className='third-paragraph'>We believe in getting to know our clients and outsourced suppliers. This means:</p>
      <ul>
        <li>understanding and fulfilling their specific needs</li>
        <li>becoming passionate experts on our clients’ brands</li>
