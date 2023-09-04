@@ -7,6 +7,7 @@ import About from './Pages/About';
 import Footer from './Components/Footer';
 import Expentise from './Pages/Expentise';
 import Test from './Pages/Test';
+import Contact from './Pages/Contact';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path='about' exact Component= {About}/>
           <Route path='expentise' exact Component= {Expentise}/>
           <Route path='test' exact Component = {Test}/>
+          <Route path='contact' exact Component = {Contact}/>
         </Routes>
         <Footer/>
        </Router>
