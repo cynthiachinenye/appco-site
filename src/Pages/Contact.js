@@ -5,16 +5,20 @@ import '../Styles/Contact.css'
 function Contact() {
   return (
     <div className='contact' style={{backgroundImage: `url(${contactImage})`}}>
+    <div>
     <h1>Contact Us</h1>
     <p>we'd love to hear from you</p>
+    
+    </div>
     <form id='name' method="POST">
     <label>Your name (required)</label>
     <input type='text'/>
     <label>Your email (required)</label>
     <input type='email' />
-    <label>Subject</label>
+    <label className='label'>Subject</label>
     <input type='text' />
-    <textarea type='text'>How can we help?</textarea>
+    <label className='text'>How can we help?</label>
+    <textarea type='text'></textarea>
      <button type='submit'>Send</button>
     </form>
       
