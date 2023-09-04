@@ -6,6 +6,7 @@ import Services from './Pages/Services';
 import About from './Pages/About';
 import Footer from './Components/Footer';
 import Expentise from './Pages/Expentise';
+import Test from './Pages/Test';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
          <Route path ='services' exact Component ={Services}/>
           <Route path='about' exact Component= {About}/>
           <Route path='expentise' exact Component= {Expentise}/>
+          <Route path='test' exact Component = {Test}/>
         </Routes>
         <Footer/>
        </Router>

@@ -5,6 +5,7 @@ import '../Styles/Home.css'
 import Services from './Services'
 import About from './About'
 import Expentise from './Expentise'
+import Test from './Test'
 
 function Home() {
   return (
@@ -25,6 +26,7 @@ function Home() {
       <Services />
       <About/>
       <Expentise/>  
+      <Test/>
       </div>
   )
 }
