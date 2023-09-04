@@ -8,13 +8,13 @@ function Test() {
     <p className='p'>we're proud of the positive impact we create for our cilent</p>
     <div className='divs '>
     <div>
-    <p>“I have worked with Appco UK for well over 20 years, while at various UK charities,
+     <p>“I have worked with Appco UK for well over 20 years, while at various UK charities,
      and nothing beats the donors they recruit for regular giving. 
      In the time we have worked together they have consistently driven up quality 
      and lowered attrition to be best in class in my opinion.
       I would not hesitate to use them or recommend them.”
-    </p>
-    <h2>Mark Astarita OBE – Director, Astarita Aldrich & Ward</h2>
+     </p>
+     
 </div>
 <div>
     <p>“I have worked with Appco UK for well over 20 years, while at various UK charities, and nothing beats the donors they recruit for regular giving. In the time we have worked together they have consistently driven up quality and lowered attrition to be best in class in my opinion. I would not hesitate to use them or recommend them.”</p>
