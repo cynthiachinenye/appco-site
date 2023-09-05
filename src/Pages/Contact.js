@@ -1,5 +1,5 @@
 import React from 'react'
-import contactImage from '../Assets/istockphoto-1198196612-612x612.jpg'
+import contactImage from '../Assets/unnamed.jpg'
 import '../Styles/Contact.css'
 
 function Contact() {

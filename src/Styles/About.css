@@ -23,6 +23,7 @@
     font-size:40px;
     font-weight:bold;
     line-height:50px;
+    display: inline;
 }
 .about-style .header h6{
     font-size:13px;
